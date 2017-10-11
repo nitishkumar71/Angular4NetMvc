@@ -7,7 +7,7 @@ Naviage to `ng-app` folder and run `ng serve` in terminal for a dev server. `ng-
 
 ## Build
 
-Run `ng build --env=prod --output-hashing none` or `npm run build-prod`to build the project. The build artifacts will be stored in the `Scripts` directory. `Index.cshtml` is already configured to host the build files provided from the angular cli. Now we can host the ASP.Net Application on IIS server
+Run `ng build --env=prod --output-hashing none` or `npm run build-prod` in `ng-app` folder to build the project. The build artifacts will be stored in the `Scripts` directory. `Index.cshtml` is already configured to host the build files provided from the angular cli. Now we can host the ASP.Net Application on IIS server
 
 ## base tag
 
